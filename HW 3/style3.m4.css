@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+header{
+    height: 15vh;
+    background: #D9D9D9;
+}
+.column1{
+    height: 75vh;
+    width: 25vw;
+    float: left;
+}
+.box1,.box3{
+    width: 25vw;
+    height: 25vh;
+    background: linear-gradient(0deg, #A5A5A3 0%, #A5A5A3 100%), linear-gradient(0deg, #979796 0%, #979796 100%), #979796;
+}
+.box2{
+    width: 25vw;
+    height: 25vh;
+    background:  linear-gradient(0deg, #BABAB9 0%, #BABAB9 100%), linear-gradient(0deg, #7F816A 0%, #7F816A 100%), #979796;
+}
+.front{
+    display: flex;
+    height: 75vh;
+    width: 33.3vw;
+    background: #61615C;
+
+}
+.column2{
+    display: flex;
+    flex-direction: column;
+    height: 75vh;
+    width: 25vw;
+    float: right;
+}
+.box4{
+    height: 50vh;
+    width: 50vw;
+    background: #78786F;
+}
+.box5{
+    height: 50vh;
+    width: 50vw;
+    background: #828569;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+footer{
+    height: 10vh;
+    background: #D9D9D9;
+}

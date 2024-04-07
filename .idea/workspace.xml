@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eec205c9-4f3f-4708-b04c-c0009071e8e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 1/HW 1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 1/HW 1.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 1/HW 1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 1/HW 1.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 1/HW 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 1/HW 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 2/HW 2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 2/HW 2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 2/HW 2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 2/HW 2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 2/HW 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 2/HW 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3 M1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3 M1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3 M2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3 M2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3 M3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3 M3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3 M4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3 M4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3 M5.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3 M5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/HW 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/style3.m1.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/style3.m1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/style3.m2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/style3.m2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/style3.m3.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/style3.m3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/style3.m4.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/style3.m4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 3/style3.m5.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/style3.m5.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2eeK66ekFFLZvUW4o4DetojamE7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eec205c9-4f3f-4708-b04c-c0009071e8e8" name="Changes" comment="" />
+      <created>1712259425994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712259425994</updated>
+      <workItem from="1712259427005" duration="489000" />
+      <workItem from="1712259929035" duration="302000" />
+      <workItem from="1712331067744" duration="6255000" />
+      <workItem from="1712396237092" duration="14268000" />
+      <workItem from="1712474002694" duration="9994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
