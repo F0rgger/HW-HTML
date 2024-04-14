@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            background-color: #fafafa;
+            margin: 0;
+            padding: 0;
+        }
+        .login-container {
+            width: 350px;
+            margin: 80px auto;
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #dbdbdb;
+            box-shadow: 2px 2px 2px #dbdbdb;
+            margin-bottom: -60px;
+        }
+        .login-container img {
+            width: 175px;
+            margin-bottom: 20px;
+        }
+        .login-container input {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #dbdbdb;
+            border-radius: 3px;
+        }
+        .login-container button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #3897f0;
+            border: none;
+            border-radius: 3px;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .login-container button:hover {
+            background-color: #3079ed;
+        }
+        .login-container .or-container {
+            display: flex;
+            align-items: center;
+            margin: 10px 0;
+        }
+
+
+        .or-container{
+            display: flex;
+            justify-content: center;
+        }
+        .login-container .facebook-login {
+            margin: 10px 0;
+            color: #385185;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .login-container .forgot-password {
+            margin: 10px 0;
+            color: #00376b;
+            font-size: 12px;
+        }
+        .login-container .signup {
+
+            margin: 10px ;
+            color: #00376b;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+<div class="login-container">
+    <img src=ins.png alt="Logo">
+    <input type="text" placeholder="Номер телефону, ім'я користувача або електронна пошта">
+    <input type="password" placeholder="Пароль">
+    <button type="button">Увійти</button>
+    <div class="or-container">
+        <span>АБО</span>
+    </div>
+    <div class="facebook-login">
+        Увійти через Facebook
+    </div>
+    <a href="#" class="forgot-password">Забули пароль?</a>
+</div>
+<div class="login-container signup">
+    Не маєте облікового запису? <a href="#">Зареєструйтеся</a>
+</div>
+</body>
+</html>
