@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: #4F504A;
+    height: 20vh;
+}
+
+.box {
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+}
+
+.content {
+    width: 70vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.b {
+    width: 70vw;
+    height: 50vh;
+    background-color: #554C4C;
+}
+
+.row {
+    display: flex;
+    width: 70vw;
+    height: 50vh;
+}
+
+.c, .d, .e {
+    flex-grow: 1;
+    height: 100%;
+}
+
+.c {
+    background-color: #f80909;
+}
+
+.d {
+    background-color: #d9d91b;
+}
+
+.e {
+    background-color: #1af334;
+}
+
+.f {
+    background-color: #3079ed;
+    height: 80vh;
+    width: 30vw;
+}

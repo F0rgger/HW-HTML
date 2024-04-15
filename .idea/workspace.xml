@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec205c9-4f3f-4708-b04c-c0009071e8e8" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/HW_5/HW_5.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_5/HW_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_5/dsdsdsd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_5/stylesHW_5.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/HW_6.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/HW_6.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/HW_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6-width600.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6.1-width600.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6.2-width1200.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6.2-width600.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_6/style-HW6.2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 3/HW 3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW 3/HW 3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_5/HW_5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW_5/HW_5.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -76,6 +81,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxfo\IdeaProjects\HTML\HW_6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -99,7 +109,7 @@
       <workItem from="1713037420723" duration="2626000" />
       <workItem from="1713041527540" duration="502000" />
       <workItem from="1713083056175" duration="25399000" />
-      <workItem from="1713171228670" duration="6269000" />
+      <workItem from="1713171228670" duration="22059000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -133,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713110105233</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1713181656790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713181656790</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1713181702797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713181702797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
